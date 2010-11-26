@@ -91,6 +91,7 @@ set ignorecase
 
 " Useful hints and tips
 "shift + k => man (for C)
+"hard tab => Cntrl + V <TAB>
 
 "+-----------------------------------------+---------------------------------------+
 "| select                                  | v                                     |
